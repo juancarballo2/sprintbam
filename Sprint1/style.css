@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #2b201f;
+    border: black;
+    margin: 10px;
+
+}
+
+#Titulo {
+    text-align: center;
+    text-decoration: underline;
+    color: ghostwhite;
+    font-size: 75px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 15px;
+
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#Subtitulo {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: overline;
+
+}
+
+.Rubros {
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 25px;
+
+}
+
+.Images {
+    margin: 20px;
+    width: 350px;
+    height: 300px;
+
+}
+
+#Contacto {
+     font-size: 20px;
+     color: white;
+     text-align: center;
+     
+}
+
+.Formulario {
+    font-size: 18px;
+    color: white;
+
+}
